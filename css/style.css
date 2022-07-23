@@ -1,0 +1,117 @@
+/* Navbar Classes Elements */
+
+.nav-item {
+    margin-right: 72px;
+}
+
+.nav-link {
+    color: silver;
+    font-size: 18px;
+}
+
+.navbar-brand {
+    font-size: 22px;
+    margin-left: 72px;
+}
+
+/* Navbar Hover Classes Elements */
+
+.nav-link:hover {
+    color: ivory;
+    text-decoration: underline;
+}
+
+/* Grid Layout Classes Elements */
+
+#grid {
+    background-color: steelblue;
+    padding: 6% 2%;
+}
+
+.img-1 {
+    height: 382px;
+    margin: 18px 0;
+}
+
+.main-h1 {
+    color: ivory;
+    font-size: 55px;
+    margin-top: 136px;
+    margin-left: 45px;
+}
+
+/* Form Classes Elements */
+
+#form {
+    background-color: ivory;
+    padding: 6% 2%;
+}
+
+.gif {
+    height: 340px;
+    margin-top: 12px;
+    margin-left: 50px;
+}
+
+.form-input {
+    text-align: center;
+    position: relative;
+}
+
+.form-txt {
+    color: steelblue;
+    font-size: 40px;
+    margin-top: 55px;
+    text-decoration: underline;
+}
+
+.response {
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+.input {
+    background-color: steelblue;
+    color: ivory;
+    margin-top: 80px;
+    position: absolute;
+    bottom: 0.5px;
+    right: 88px;
+    width: 165px;
+}
+
+/* Form Hover Elements */
+
+.input:hover {
+    background-color: royalblue;
+    color: ivory;
+}
+
+/* About Us Elements */
+
+#about-us {
+    background-color: steelblue;
+    position: relative;
+    padding: 1.2%;
+}
+
+.name {
+    color: ivory;
+    font-weight: bold;
+    margin-left: 68px;
+    text-decoration: none;
+}
+
+.p-txt {
+    color: ivory;
+    font-weight: bold;
+    position: absolute;
+    top: 16px;
+    right: 126px;
+}
+
+/* About Us Hover Elements */
+
+.name:hover {
+    color: ivory;
+}
